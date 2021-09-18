@@ -6,6 +6,6 @@ Following 3D intersection tests are present:
 2. Plane-Ray
 3. Plane-Line Segment
 4. Plane-Plane
-5. Triangle-Ray
-6. Mesh-Ray
+5. Triangle-Line Segment
+6. Mesh-Line Segment
 7. Mesh-Mesh
